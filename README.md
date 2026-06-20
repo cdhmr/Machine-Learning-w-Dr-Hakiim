@@ -1,5 +1,10 @@
 # Machine-Learning-w-Dr-Hakiim
 ML Quiz : Quality-Aware Convolutional Neural Network for Glaucoma Detection
+## Authors
+* Achmad Euro Winrasaputra (235091001111010)
+* Kharisma Jaya Abdallah (235091000111008)
+* Alfian Rafid Rabbani (235091001111011)
+* Marwan Hadid Ramdhani (235091007111003)
 
 # Quality-Aware CNN for Glaucoma Detection on HYGD
 
